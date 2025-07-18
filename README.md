@@ -1,14 +1,11 @@
 Hello there 👋
 
-A Full-Stack Developer by day ☼ and a Laravel Community Contributor by night ☾
+A DevOps Engineer by day ☼ and a Technology Tinkerer by night ☾
 
-Full-Stack Developer at Medicare;
-Host/Organizing Laracon EU;
+DevOps Engineer at DAZN Bet;
 
-⚙️ I use daily: .php, .js, .html, .css, .svg, .psd, .ai
-🌍 I'm mostly active within the Laravel Community
-💅 Designed: @pestphp, NorthMeetsSouth.audio, ThenPing.me, HappydDev.fm, etc…
-💬 ping me about design, branding, laravel, development, design thinking
+⚙️ I use daily: .go, .yaml, .html, .css, .yml
+🌍 I'm mostly active within the Golang Community
 📫 How to reach me:
   **[LinkedIn](https://www.linkedin.com/in/lgmz/), [Twitter](https://twitter.com/0xlgmz), [Instagram](https://instagram.com/0xlgmz)**
 

@@ -4,9 +4,9 @@ A DevOps Engineer by day ☼ and a Technology Tinkerer by night ☾
 
 DevOps Engineer at DAZN Bet;
 
-⚙️ I use daily: .go, .yaml, .html, .css, .yml
-🌍 I'm mostly active within the Golang Community
-📫 How to reach me:
+- ⚙️ I use daily: .go, .yaml, .html, .css, .yml
+- 🌍 I'm mostly active within the Golang Community
+- 📫 How to reach me:
   **[LinkedIn](https://www.linkedin.com/in/lgmz/), [Twitter](https://twitter.com/0xlgmz), [Instagram](https://instagram.com/0xlgmz)**
 
 ![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=0xlgmz&show_icons=true&hide_border=true&theme=dark)

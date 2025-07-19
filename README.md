@@ -5,7 +5,8 @@ A DevOps Engineer by day ☼ and a Technology Tinkerer by night ☾
 DevOps Engineer at DAZN Bet;
 
 - ⚙️ Daily toolkit: `.go`, `.yaml`, `vim`, `make`, `git`, `curl`
-- - 🌍 I'm mostly active within the Golang Community
+- ☁️ Cloud grind: `Terraform`, `Helm`, `kustomize`, `kubectl`, `aws`
+- 🌍 I'm mostly active within the Golang Community
 - 📫 How to reach me:
   **[LinkedIn](https://www.linkedin.com/in/lgmz/), [Twitter](https://twitter.com/0xlgmz), [Instagram](https://instagram.com/0xlgmz)**
 

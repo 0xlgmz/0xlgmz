@@ -2,7 +2,7 @@ Hello there 👋
 
 A DevOps Engineer by day ☼ and a Technology Tinkerer by night ☾
 
-DevOps Engineer at DAZN Bet;
+Platform Engineer at DAZN;
 
 - ⚙️ Daily toolkit: `.go`, `.yaml`, `vim`, `make`, `git`, `curl`
 - ☁️ Cloud grind: `Terraform`, `Helm`, `kustomize`, `kubectl`, `aws`

@@ -1,6 +1,6 @@
 Hello there 👋
 
-A DevOps Engineer by day ☼ and a Technology Tinkerer by night ☾
+A Platform Engineer by day ☼ and a Technology Tinkerer by night ☾
 
 Platform Engineer at DAZN;
 
